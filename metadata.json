@@ -5,7 +5,9 @@
     "Author": "ZUNO Studio",
     "GitHubAuthorUrl": "https://github.com/mm2ultimatehub-rgb",
     "Link": "https://github.com/mm2ultimatehub-rgb/ZUNO",
-    "Source": "zuno-pure.svg"
+    "Source": "zuno-pure.svg",
+    "BackgroundMode": "integrated",
+    "BackgroundColor": "#EAF1F8"
   },
   {
     "Id": "zuno-midnight",
@@ -13,7 +15,9 @@
     "Author": "ZUNO Studio",
     "GitHubAuthorUrl": "https://github.com/mm2ultimatehub-rgb",
     "Link": "https://github.com/mm2ultimatehub-rgb/ZUNO",
-    "Source": "zuno-midnight.svg"
+    "Source": "zuno-midnight.svg",
+    "BackgroundMode": "integrated",
+    "BackgroundColor": "#111923"
   },
   {
     "Id": "zuno-coral",
@@ -21,7 +25,9 @@
     "Author": "ZUNO Studio",
     "GitHubAuthorUrl": "https://github.com/mm2ultimatehub-rgb",
     "Link": "https://github.com/mm2ultimatehub-rgb/ZUNO",
-    "Source": "zuno-coral.svg"
+    "Source": "zuno-coral.svg",
+    "BackgroundMode": "integrated",
+    "BackgroundColor": "#F6D7D2"
   },
   {
     "Id": "zuno-aurora",
@@ -29,7 +35,9 @@
     "Author": "ZUNO Studio",
     "GitHubAuthorUrl": "https://github.com/mm2ultimatehub-rgb",
     "Link": "https://github.com/mm2ultimatehub-rgb/ZUNO",
-    "Source": "zuno-aurora.svg"
+    "Source": "zuno-aurora.svg",
+    "BackgroundMode": "integrated",
+    "BackgroundColor": "#292744"
   },
   {
     "Id": "zuno-graphite",
@@ -37,7 +45,9 @@
     "Author": "ZUNO Studio",
     "GitHubAuthorUrl": "https://github.com/mm2ultimatehub-rgb",
     "Link": "https://github.com/mm2ultimatehub-rgb/ZUNO",
-    "Source": "zuno-graphite.svg"
+    "Source": "zuno-graphite.svg",
+    "BackgroundMode": "integrated",
+    "BackgroundColor": "#242A31"
   },
   {
     "Id": "zuno-mint",
@@ -45,6 +55,8 @@
     "Author": "ZUNO Studio",
     "GitHubAuthorUrl": "https://github.com/mm2ultimatehub-rgb",
     "Link": "https://github.com/mm2ultimatehub-rgb/ZUNO",
-    "Source": "zuno-mint.svg"
+    "Source": "zuno-mint.svg",
+    "BackgroundMode": "integrated",
+    "BackgroundColor": "#DDF1E9"
   }
 ]
